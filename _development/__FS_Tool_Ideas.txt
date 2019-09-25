@@ -1,0 +1,13 @@
+
+propagate grades from student excel sheets to ‘master’ automagically
+
+check conceptShare for post
+
+
+search folder structure for file names matching / containing input > copy files to location. (search previous submissions of supplied student’s work. copy files to common location)
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+#to change a .py file to be double-click executable on mac
+# include the appropriate shebang line ( #! /usr/local/bin/python3 )
+#open terminal, navigate to file and run chmod a+x <filename>
+#then file can be ran with ./<filename.py>
+#set default application to terminal

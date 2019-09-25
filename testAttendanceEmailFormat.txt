@@ -1,0 +1,26 @@
+%STUDENT%, 
+
+This e-mail has been automatically generated to keep you informed as to your attendance status. 
+If you notice an error in the information provided please reach out to your instructor immediately. 
+
+%COURSECODE%: %TERMID%
+
+Total Hours Out: %TOTALHOURS%
+
+Lecture:
+- Excused Hours: %LECTUREEXUSED%
+- Unexcused Hours: %LECTUREUNEXCUSED%
+
+Lab:
+- Excused Hours: %LABEXCUSED%
+- Unexcused Hours: %LABUNEXCUSED%
+
+Please keep in mind that for %COURSECODE% the maximum unexcused hours a student is able to miss is 8 hours. 
+The maximum a student is able to miss with excused absences is 16 hours. 
+
+If you have any questions or concerns please let me know, 
+
+Adam Fatka | Associate Course Director | 3D Arts | Full Sail University
+3300 University Boulevard| Winter Park, FL 32792
+
+ 
